@@ -1,7 +1,8 @@
-## CoinDash
-### CoinDash: Cryptocurrency Tracker with AWS Integration (Crypto Trend Monitor)
+# CoinDash
 
-#### Built a user-friendly, real-time cryptocurrency dashboard using React.js, Material UI, Chart.js, and Context API for seamless UI and state management; integrated CoinGecko API for live crypto data and deployed the application on AWS S3 for scalable hosting.
+## CoinDash: Cryptocurrency Tracker with AWS Integration (Crypto Trend Monitor)
+
+Built a user-friendly, real-time cryptocurrency dashboard using React.js, Material UI, Chart.js, and Context API for seamless UI and state management; integrated CoinGecko API for live crypto data and deployed the application on AWS S3 for scalable hosting.
 
 ![Screenshot (583)](https://github.com/ritikjaiswal31/Major-Project-1/assets/110025521/988ca99f-145f-4623-83e8-c4023d247167)
 
