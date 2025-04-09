@@ -1,7 +1,7 @@
-## Major Project-1 – Crypto Trend Monitor
-### Crypto Trend Monitor – Cryptocurrency Dashboard with AWS S3 Deployment
+## CoinDash
+### CoinDash: Cryptocurrency Tracker with AWS Integration
 
-#### The Crypto Trend Monitor aims to create a user-friendly web application that provides real-time data and insights into various cryptocurrencies. This project leverages React JS for building the user interface, Material UI for designing the frontend components, Chart JS for data visualization, Context API for state management, and Coin Gecko API for fetching cryptocurrency-related data. The dashboard offers users a convenient and informative platform to track cryptocurrency prices, market trends and other essential information.
+#### Built a user-friendly, real-time cryptocurrency dashboard using React.js, Material UI, Chart.js, and Context API for seamless UI and state management; integrated CoinGecko API for live crypto data and deployed the application on AWS S3 for scalable hosting.
 
 ![Screenshot (583)](https://github.com/ritikjaiswal31/Major-Project-1/assets/110025521/988ca99f-145f-4623-83e8-c4023d247167)
 
